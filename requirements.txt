@@ -1,0 +1,17 @@
+tensorflow
+keras
+pandas
+numpy
+opencv-python
+os
+zipfile
+shutil
+pickle-mixin
+pathlib
+random
+warnings
+imageio
+scikit-learn
+time
+collections
+scipy
